@@ -1,0 +1,78 @@
+/* General page styles */
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar styles */
+.navbar {
+    background: #4a90e2;
+    color: #fff;
+    padding: 20px;
+    border-bottom: 4px solid #357ab8;
+    margin-bottom: 30px;
+}
+
+.navbar h1 {
+    margin: 0 0 10px 0;
+    font-size: 2rem;
+}
+
+.nav-btn {
+    background: #fff;
+    color: #4a90e2;
+    border: 2px solid #357ab8;
+    padding: 8px 16px;
+    margin-right: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Container section */
+.container {
+    background: #fff;
+    margin: 0 auto;
+    padding: 30px;
+    max-width: 600px;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+/* Headings and paragraph */
+h2 {
+    color: #357ab8;
+    margin-bottom: 16px;
+}
+
+p {
+    color: #333;
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+/* Card styles */
+.card {
+    background: #eaf6ff;
+    border: 2px solid #b3d4fc;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 6px;
+}
+
+.card h3 {
+    margin-top: 0;
+    color: #4a90e2;
+}
+
+.card-btn {
+    background: #4a90e2;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
